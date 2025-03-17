@@ -1,0 +1,10 @@
+# base
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+
+# test base
+pytest
+pytest-cov
+httpx
