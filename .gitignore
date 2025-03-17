@@ -6,3 +6,7 @@ tests/.coverage
 
 # 本地数据库
 tasks.db
+
+# 缓存文件
+src/__pycache__/
+tests/__pycache__/
